@@ -4320,15 +4320,15 @@
 		)
 	)
 	(gr_rect
-		(start 70 70)
-		(end 180 130.16)
+		(start 65 65)
+		(end 180 135)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(fill no)
 		(layer "Edge.Cuts")
-		(uuid "d6b0bf2c-dc1d-46a0-bd44-91cd5ca58d7d")
+		(uuid "6921fea1-f5f8-40c9-ba87-fc72f3879086")
 	)
 	(segment
 		(start 159.52 108.32)
